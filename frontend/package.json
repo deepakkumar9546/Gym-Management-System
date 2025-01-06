@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^1.7.2",
     "lucide-react": "^0.379.0",
+    "nodemon": "^3.1.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.1",
